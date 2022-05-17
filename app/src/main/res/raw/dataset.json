@@ -1,0 +1,42 @@
+{
+  "Mitosis": [
+    {
+      "title": "What is mitosis? | Facts | yourgenome.org",
+      "link": "https://www.yourgenome.org/facts/what-is-mitosis",
+      "description": "Mitosis is a process where a single cell divides into two identical daughter cells (cell division)",
+      "web": "What_is_mitosis_yourgenome.html"
+    },
+    {
+      "title": "What is mitosis? - WhatMaster",
+      "link": "https://whatmaster.com/mitosis/",
+      "description": "We explain what mitosis is and the different phases of this form of reproduction. Also, what is meiosis?",
+      "web": "what_is_mitosis_whatmaster.html"
+    },
+    {
+      "title": "Mitosis",
+      "link": "https://www.genome.gov/genetics-glossary/Mitosis",
+      "description": "Mitosis is a cellular process that replicates chromosomes and produces two identical nuclei in preparation for cell division. Generally, mitosis is immediately followed by the equal division of the cell nuclei and other cell contents into two daughter cells.",
+      "web": "mitosis.html"
+    },
+    {
+      "title": "Mitosis (Definition, Diagram and Stages Of Mitosis",
+      "link": "https://byjus.com/biology/mitosis/",
+      "description": "Mitosis is the process where a cell is divided into two cells with the same number of chromosomes. Explore more about mitosis, its definition, diagram and stages",
+      "web": "download.html"
+    }
+  ],
+  "Meiosis": [
+    {
+    "title": "What Is Meiosis? - Definition, Cell Division And Stages of Meiosis",
+    "link": "https://byjus.com/biology/stages-of-meiosis/",
+    "description": "The stages of meiosis include prophase, metaphase, anaphase, telophase and cytokinesis. Explore what is meiosis and meiosis cell division only at BYJU’S.",
+    "web": "what_is_meiosis.html"
+    },
+    {
+      "title": "Meiosis - Definition, Stages, Function and Purpose | Biology Dictionary",
+      "link": "https://biologydictionary.net/meiosis/",
+      "description": "Meiosis is the process in eukaryotic, sexually-reproducing animals that reduces the number of chromosomes in a cell before reproduction. Many organisms package these cells into gametes, such as egg and sperm.",
+      "web": "meiosis_biology.html"
+    }
+  ]
+}
